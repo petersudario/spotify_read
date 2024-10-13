@@ -1,14 +1,8 @@
-{
-  "builds": [
+ {
+  "redirects": [
     {
-      "src": "api/*.py",
-      "use": "@vercel/python"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "/api/$1"
+      "source": "/",
+      "destination": "https://github.com/petersudario/spotify_read"
     }
   ]
 }
