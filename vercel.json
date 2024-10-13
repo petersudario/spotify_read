@@ -4,5 +4,12 @@
       "source": "/",
       "destination": "https://github.com/petersudario/spotify_read"
     }
-  ]
+  ],
+
+  "build": {
+    "env": {
+      "PYTHONUNBUFFERED": "1"
+    },
+    "postinstall": "pip install -r requirements.txt"
+  }
 }
