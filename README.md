@@ -1,6 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](https://petersudario.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/pedrohesudario)
-</div>
+[![Spotify](https://petersudario.vercel.app/api/spotify)](https://open.spotify.com/user/pedrohesudario)</div>
 
 &nbsp;<div align="center">
   [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
